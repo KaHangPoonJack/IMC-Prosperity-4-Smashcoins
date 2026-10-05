@@ -15,7 +15,7 @@ IMC Prosperity 4 is a five-round algorithmic and manual trading competition. Eac
 | POON Ka Hang (Jack) | BEng, Computer Science and Mathematics (double major), Business minor | Rounds 1–2 algorithm; options and volatility-smile strategies (Rounds 3–5); Round 5 product classification |
 | SIT Chak Hong (Ivan) | BSc, Biotechnology and Mathematics (double major), Business minor | Non-options strategies from Round 3 (`HYDROGEL_PACK`, `VELVETFRUIT_EXTRACT`); Round 5 products without a clear strategy |
 | LIN Hao Kun (Jacky) | BEng, Computer Science, Extended Major in Artificial Intelligence | Manual trading, Rounds 3–5 |
-| CHAN Yui San (Terrence) | BSc, Physics | Manual trading, Rounds 3–5 |
+| CHAN Yui San (Terrence) | BSc, Physics | Manual trading, Rounds 3–5 | 
 
 ## Results
 
