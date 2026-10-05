@@ -1,4 +1,4 @@
-# IMC Prosperity 4 — Team SMASHCOINS
+# IMC Prosperity 4 — Team Smashcoins
 
 **Final standing: 1,032nd of 18,803 teams (top 5.5%), with 211,804 XIRECs in Phase 2.** Best standing: **772nd**, after Round 4.
 
